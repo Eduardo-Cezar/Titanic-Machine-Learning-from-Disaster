@@ -6,6 +6,7 @@ Este repositório contém um notebook Python desenvolvido para a competição do
 
 O notebook implementa várias técnicas de machine learning para prever a sobrevivência dos passageiros. O código original foi modificado e aprimorado para melhorar a acurácia do modelo. As principais abordagens utilizadas incluem:
 
+
 - **Ajuste de hiperparâmetros** utilizando a função `gp_minimize` para otimizar os modelos.
 - **Seleção de features** com base em uma matriz de correlação para identificar as variáveis mais relevantes.
 - **Modelos de machine learning** como Regressão Logística, KNN, Naive Bayes, SVM, Árvores de Decisão e Random Forest.
