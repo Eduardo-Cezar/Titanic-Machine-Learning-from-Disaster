@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-Este repositório contém um notebook Python desenvolvido para a competição do Kaggle **"Titanic - Machine Learning from Disaster"**. O objetivo da competição é prever quais passageiros sobreviveram ao naufrágio do Titanic com base em dados fornecidos, como classe social, sexo, idade, porto de embarque, entre outras informações.
+Este repositório contém um notebook Python desenvolvido para a competição do Kaggle [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic). O objetivo da competição é prever quais passageiros sobreviveram ao naufrágio do Titanic com base em dados fornecidos, como classe social, sexo, idade, porto de embarque, entre outras informações.
 
 ## Descrição do Projeto
 
